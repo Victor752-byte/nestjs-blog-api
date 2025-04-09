@@ -1,6 +1,6 @@
 # 📝 Personal Blog API
 
-A RESTful API for a personal blog built using **NestJS**, **PostgreSQL**, and **TypeORM**. It supports user registration, authentication (JWT-based), profile updates, and basic CRUD operations on users.
+A RESTful API for a personal blog built using **NestJS**, **PostgreSQL**, and **TypeORM**. It supports user registration, authentication (JWT-based), profile updates, and basic CRUD operations on blog posts.
 
 ---
 
